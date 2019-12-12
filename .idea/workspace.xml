@@ -4,6 +4,27 @@
     <list default="true" id="534c674c-6484-4fc7-ba5e-e4a276644431" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D:\File01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangobot/djangobot" beforeDir="false" afterPath="$PROJECT_DIR$/djangobot/djangobot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangobot/djangobot/.gitigunore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangobot/djangobot/bot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangobot/djangobot/bot/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangobot/djangobot/bot/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangobot/djangobot/bot/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangobot/djangobot/djangobot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangobot/djangobot/djangobot/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangobot/djangobot/djangobot/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangobot/djangobot/djangobot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangobot/djangobot/djangobot/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangobot/djangobot/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/djangobot/djangobot/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/news/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/newspaper_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/newspaper_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/newspaper_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/newspaper_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pokemon.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraping.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scraping.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraping_kojima.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scraping_kojima.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_test-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_test-checkpoint.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/news" />
   </component>
   <component name="ProjectId" id="1OxB0VoMXXE8EMDCVl62sbRZM2d" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,8 +71,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.django_debug">
-    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.views (1)">
+    <configuration name="apps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog/blog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/djangobot/djangobot/bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blog/blog/admin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/djangobot/djangobot/bot/apps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,6 +114,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news/articles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news/articles/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog/blog_project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/djangobot/djangobot/djangobot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blog/blog_project/settings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/djangobot/djangobot/djangobot/settings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tests (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mb/posts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/djangobot/djangobot/bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mb/posts/tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/djangobot/djangobot/bot/urls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,32 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages/pages" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/news/articles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/pages/tests.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mb/posts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mb/posts/views.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/news/articles/views.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,19 +200,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.django_debug" />
-      <item itemvalue="Python.admin" />
+      <item itemvalue="Python.urls" />
+      <item itemvalue="Python.apps" />
       <item itemvalue="Python.settings" />
-      <item itemvalue="Python.tests" />
-      <item itemvalue="Python.tests (1)" />
-      <item itemvalue="Python.views" />
+      <item itemvalue="Python.models" />
+      <item itemvalue="Python.views (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.admin" />
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.models" />
         <item itemvalue="Python.settings" />
-        <item itemvalue="Python.tests (1)" />
-        <item itemvalue="Python.views" />
-        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.apps" />
+        <item itemvalue="Python.urls" />
       </list>
     </recent_temporary>
   </component>

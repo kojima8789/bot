@@ -3,7 +3,11 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/djangobot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/djangobot/djangobot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linebot2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/news" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pages" vcs="Git" />
   </component>
 </project>
